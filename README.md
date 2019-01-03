@@ -1,5 +1,10 @@
 ## Module 6: What You Should Be Doing After Graduation
 
+![Albert Einstein](https://media.giphy.com/media/xULW8q4fONlOSQhT0I/giphy.gif)
+
+"If you can't explain it to a six year old, you don't understand it yourself." - Albert Einstein
+
+
 ### Your Next Project
 
 At this point you would have already created one solo project during Module 5 and a few other projects in the other modules. Now is the time to seriously keep coding and embark on your second project. Employers want to see that you can "do the thing." They want to know that you can start with nothing and build your own moderately complex application. Now that you're out of the program, this is the time to experiment with technologies you did not get to look into during Mod 5. These may include:
