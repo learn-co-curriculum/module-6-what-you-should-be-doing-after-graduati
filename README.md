@@ -160,7 +160,7 @@ Recommended Books:
 
 * [EloquentJavascript](http://eloquentjavascript.net/)
 
-* [RailsTutorial](http://eloquentjavascript.net/)
+* [RailsTutorial](http://railstutorial.org/)
 
 Recommended Video Series:
 
