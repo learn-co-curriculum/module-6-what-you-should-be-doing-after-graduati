@@ -86,6 +86,8 @@ The journey of a programmer is one of constant learning. That being said, you ne
 
 Have fun. Go get it!
 
+![](http://i.imgur.com/EgtNhMY.jpg?1)
+
 
 ## Sample Schedule
 
