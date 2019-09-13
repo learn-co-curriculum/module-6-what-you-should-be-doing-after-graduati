@@ -1,7 +1,5 @@
 ## Module 6: What You Should Be Doing After Graduation
 
-![Albert Einstein](https://media.giphy.com/media/xULW8q4fONlOSQhT0I/giphy.gif)
-
 ![](http://i.imgur.com/wrx4QKN.jpg?1)
 
 "If you can't explain it to a six year old, you don't understand it yourself." - Albert Einstein
