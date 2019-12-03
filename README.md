@@ -40,7 +40,7 @@ After you have completed a project, it is key that you deploy your project so th
 
 Module 5 is probably a blur by now but there's still a need for you to start cleaning up your project. When we say clean up your project we mean several things:
 
-1. Refactor your code to reflect best practices. This means that no new functionality should be added while finding a balance between elegance and efficiency. You will sometimes find yourself obsessing over efficiency/elegance and may not sure how to move forward. This is a good time to ask a friend/instructor to take a look.
+1. Refactor your code to reflect best practices. This means that no new functionality should be added while finding a balance between elegance and efficiency. You will sometimes find yourself obsessing over efficiency/elegance and may not be sure how to move forward. This is a good time to ask a friend/instructor to take a look.
 2. Write tests allows you to add some more polish to your applications. It says to an employer that you have considered the long-term sustainability of your code.
 3. Clean up your GitHub page When someone goes to your GitHub page for your project they shouldn't be seeing the default Rails/Create React App project guidelines. You should include the following:
 
