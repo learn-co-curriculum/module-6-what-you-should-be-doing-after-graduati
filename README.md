@@ -33,7 +33,7 @@ The goal here is to begin creating a new project that builds on the skills you h
 
 
 ### Deploy
-After you have completed a project, it is key that you deploy your project so that you can send it to employers. A project should not solely live on your GitHub page. However, this does not mean deploying a half finished product. Ensure that you have fully tested your site before sending to anyone. This does not mean just testing your functionality but also testing for edge cases. For example what what happened if you tried to search in an empty search bar...would your app break?
+After you have completed a project, it is key that you deploy your project so that you can send it to employers. A project should not solely live on your GitHub page. However, this does not mean deploying a half finished product. Ensure that you have fully tested your site before sending to anyone. This does not mean just testing your functionality but also testing for edge cases. For example what would happen if you tried to search in an empty search bar...would your app break?
 
 
 ### Cleanup
@@ -71,11 +71,11 @@ Watch these videos and then implement what he's referring to in the video in you
 
 ### Algorithms
 
-Create an account on hackerank.com or codewars.com or any other site you prefer.
+Create an account on [hackerrank.com](https://www.hackerrank.com/) or [codewars.com](https://www.codewars.com/) or any other site you prefer.
 
 Begin with the Data Structures section. It's important to stay on top of this. Solve at least one problem a day. Also, in your progression through this material feel free at times to go back and re-implement a problem you solved from a few days prior or a week earlier to stay on top of the material. Don't rush through these problems. If any of these problems brings up a core concept, make an attempt to implement it on a white board or in a Google Doc, challenging yourself to solve it without using auto-complete from the compiler.
 
-When a problem is asked, open repl.it and make an attempt at solving it. These are questions that can and will very well be asked of you on interviews that involve algorithms.
+When a problem is asked, open repl.it and make an attempt at solving it. These are questions that can and may very well be asked of you on interviews that involve algorithms.
 
 It is often also helpful to start solving these problems on a piece of paper. It may be hard to remember the syntax but over time it will become second nature. Allow your mind to be the compiler as you work your way through a problem.
 
@@ -134,7 +134,7 @@ Your week should encompass all of the details in some form in addition to your c
 
 * Use Thursday to write your blog. Unlike during the program, a blog shouldn't take a week to write especially since you have already done your outline. Sit down for a few hours and begin writing.
 
-* Thursday should also be a day for finishing off your sprint for the week. At this point, if you haven't merged into your master branch you should consider doing so. Note only merge a fully developed feature into master.
+* Thursday should also be a day for finishing off your sprint for the week. At this point, if you haven't merged into your master branch you should consider doing so. Note: Only merge a fully developed feature into master.
 
 
 **FRIDAY**
